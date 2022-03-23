@@ -1,0 +1,5 @@
+package cg.feb18.spring.demo.config;
+
+public class SpringConfig {
+
+}

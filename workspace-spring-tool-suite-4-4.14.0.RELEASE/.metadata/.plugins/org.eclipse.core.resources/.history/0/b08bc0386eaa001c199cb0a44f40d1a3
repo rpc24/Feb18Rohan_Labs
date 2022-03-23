@@ -1,0 +1,5 @@
+package cg.feb18.spring.demo.entity;
+
+public class Employee {
+
+}
